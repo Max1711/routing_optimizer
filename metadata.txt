@@ -1,0 +1,15 @@
+[general]
+name=Routing Optimizer
+qgisMinimumVersion=3.0
+description=Плагин для оптимизации трасс (трубопроводов) с учетом стоимостной поверхности местности с использованием A*, GA и PSO.
+version=0.1.0
+author=Pristov Maxim
+email=m.pristov@agni-rt.ru
+about=Инструмент пространственной оптимизации для нефтегазовой отрасли. Позволяет загружать точки скважин и ДНС, строить Cost-поверхность на основе OSM и находить оптимальные маршруты.
+tracker=http://bugs
+repository=http://repo
+category=Plugins
+tags=python, routing, optimization, genetic algorithm, pso, astar, pipeline
+icon=resources/icon.png
+experimental=False
+deprecated=False
